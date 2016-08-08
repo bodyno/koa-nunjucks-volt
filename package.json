@@ -1,6 +1,6 @@
 {
   "name": "koa-nunjucks-volt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lightweight Koa middleware for Nunjucks and volt syntax",
   "homepage": "https://github.com/bodyno/koa-nunjucks-volt.git",
   "scripts": {
