@@ -1,0 +1,41 @@
+{
+  "name": "koa-nunjucks-volt",
+  "version": "0.1.0",
+  "description": "Lightweight Koa middleware for Nunjucks and volt syntax",
+  "homepage": "https://github.com/bodyno/koa-nunjucks-volt.git",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "dependencies": {
+    "lodash.defaults": "^4.0.0",
+    "lodash.difference": "^4.0.1",
+    "lodash.merge": "^4.0.1",
+    "nunjucks-volt": "^0.1.1"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "koa": "^1.1.2",
+    "mocha": "^3.0.0",
+    "supertest": "^2.0.0"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bodyno/koa-nunjucks-volt.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bodyno/koa-nunjucks-volt/issues"
+  },
+  "keywords": [
+    "koa",
+    "nunjucks",
+    "view"
+  ],
+  "engine": {
+    "node": ">0.11"
+  }
+}
