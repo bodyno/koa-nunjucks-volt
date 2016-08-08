@@ -10,7 +10,7 @@
     "lodash.defaults": "^4.0.0",
     "lodash.difference": "^4.0.1",
     "lodash.merge": "^4.0.1",
-    "nunjucks-volt": "^0.1.1"
+    "nunjucks-volt": "^0.1.0"
   },
   "devDependencies": {
     "chai": "^3.4.1",
